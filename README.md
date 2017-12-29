@@ -1,6 +1,15 @@
-# 100-days-kallaway-log
-The log of my 100 Days Of Code (to keep separate from main repo and let people fork a clean version)
+# 100 Days Of Code - Log
+##### Learning AngularJS as much as I can in 100 Days ;)
 
-[Round 1](R1.md)
+### Day 0: February 30, 2016 (Example 1)
 
-[Round 3](R3.md)
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
